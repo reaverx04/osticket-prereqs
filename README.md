@@ -51,7 +51,7 @@ Open <strong>Control Panel</strong> > <strong>Programs</strong> > <strong>Turn W
 Install **PHP Manager for IIS** (PHPManagerForIIS_V1.5.0.msi) and the **Rewrite Module** (rewrite_amd64_en-US.msi) from the **osTicket-Installation-Files** folder.
 
 <p>
-<img src="https://i.imgur.com/RsLemAo.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RsLemAo.png" height="80%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 
 
