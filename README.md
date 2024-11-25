@@ -96,7 +96,7 @@ Install **osTicket v1.15.8** by unzipping **osTicket-v1.15.8.zip** from the **os
 Finally, reload IIS by stopping and starting the server.
 
 <p>
-<img src="https://i.imgur.com/i7LgiM6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/i7LgiM6.png" height="80%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
