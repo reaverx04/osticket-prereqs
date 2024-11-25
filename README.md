@@ -84,18 +84,24 @@ Choose **Typical Setup**, then launch the **Configuration Wizard** after install
 Open IIS as an admin. In **PHP Manager**, register PHP by selecting **C:\PHP\php-cgi.exe**. Then, reload IIS by stopping and starting the server.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YiIpBsa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>
+<img src="https://i.imgur.com/Cmk5Us9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 Install **osTicket v1.15.8** by unzipping **osTicket-v1.15.8.zip** from the **osTicket-Installation-Files** folder. Copy the **upload** folder to **c:\inetpub\wwwroot** and rename it to **osTicket**.
 
 Finally, reload IIS by stopping and starting the server.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/i7LgiM6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>
+<img src="https://i.imgur.com/pP7RyGC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 Some extensions may not be enabled.
 
@@ -108,7 +114,7 @@ Some extensions may not be enabled.
 - Refresh the **osTicket** site in your browser to observe the changes.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2LWxspK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
@@ -118,7 +124,7 @@ Rename **ost-sampleconfig.php** to **ost-config.php**
 - To: **C:\inetpub\wwwroot\osTicket\include\ost-config.php**
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NJVPzCm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
@@ -130,9 +136,20 @@ Assign permissions to **ost-config.php**:
 - Add new permissions: Select **Everyone** and grant **Full control** (All permissions).
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lfticDQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>
+<img src="https://i.imgur.com/OCznIJ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/0fSJjQ0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/Y9zmX3k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 Continue setting up **osTicket** in your browser by clicking **Continue**.
 
@@ -143,9 +160,20 @@ In the **Database Settings** section, you'll need to install **HeidiSQL** from t
 Once **HeidiSQL** is installed, open the program and create a new session with the **Username** set to `root` and the **Password** set to `root`. After connecting to the session, create a new database called **osTicket**.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1QegZId.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>
+<img src="https://i.imgur.com/IwIkVlm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/qJbePxt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/50CYRgp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 Continue setting up **osTicket** in the browser:
 
@@ -155,7 +183,7 @@ Continue setting up **osTicket** in the browser:
 - Click **Install Now!** to complete the installation.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tRKAO4s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
