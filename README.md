@@ -51,14 +51,17 @@ Open <strong>Control Panel</strong> > <strong>Programs</strong> > <strong>Turn W
 Install **PHP Manager for IIS** (PHPManagerForIIS_V1.5.0.msi) and the **Rewrite Module** (rewrite_amd64_en-US.msi) from the **osTicket-Installation-Files** folder.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RsLemAo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
 Create the **C:\PHP** directory and unzip **php-7.3.8-nts-Win32-VC15-x86.zip** from the **osTicket-Installation-Files** folder into it.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6w53ggn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/EWmhcNV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
