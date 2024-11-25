@@ -70,9 +70,16 @@ Install **VC_redist.x86.exe** and **MySQL 5.5.62** from the **osTicket-Installat
 Choose **Typical Setup**, then launch the **Configuration Wizard** after installation. Select **Standard Configuration**, and set the **Username** to **root** and the **Password** to **root**.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KCEwall.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>
+<img src="https://i.imgur.com/2Mduxs9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/WOOueAE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 Open IIS as an admin. In **PHP Manager**, register PHP by selecting **C:\PHP\php-cgi.exe**. Then, reload IIS by stopping and starting the server.
 
