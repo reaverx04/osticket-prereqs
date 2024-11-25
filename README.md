@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-Open your osticket-vm and download <a href= https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>osTicket-Installation-Files.zip</a> to the desktop. After downloading, right-click the file and choose Extract All to create the osTicket-Installation-Files folder. Open the folder to ensure all installation files are there.  
+Open your **osticket-vm** and download <a href= https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>osTicket-Installation-Files.zip</a> to the desktop. After downloading, right-click the file and choose Extract All to create the osTicket-Installation-Files folder. Open the folder to ensure all installation files are there.  
 </p>
 <br />
 <p>
