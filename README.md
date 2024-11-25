@@ -74,11 +74,11 @@ Choose **Typical Setup**, then launch the **Configuration Wizard** after install
 </p>
 
 <p>
-<img src="https://i.imgur.com/2Mduxs9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2Mduxs9.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/WOOueAE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WOOueAE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
 Open IIS as an admin. In **PHP Manager**, register PHP by selecting **C:\PHP\php-cgi.exe**. Then, reload IIS by stopping and starting the server.
